@@ -1,2 +1,3 @@
-# RegressaoLinearDNC
-Desafio de Regressão linear simples proposto pela Escola DNC
+# RegressaoLinear
+
+Exercícios de regressão linear com objetivo de praticas assunto estudado.
